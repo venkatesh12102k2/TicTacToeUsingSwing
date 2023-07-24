@@ -1,3 +1,3 @@
-# TicTacToeUsingSwing!
+# TicTacToeUsingSwing
 An GUI based two player TicTacToe game built as Applet using Java Swing with Timer for each players.
-[Screenshot 2023-07-24 194505](https://github.com/venkatesh12102k2/TicTacToeUsingSwing/assets/124376174/d807c9af-a3f0-4be1-a38a-135d658bc254)
+![output](https://github.com/venkatesh12102k2/TicTacToeUsingSwing/assets/124376174/4177821c-2c0b-47c8-81ea-3b23e7a04069)
